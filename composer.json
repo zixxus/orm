@@ -1,0 +1,14 @@
+{
+    "name": "teamwant/orm",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Mateusz Szymański",
+            "email": "doltdoof@gmail.com"
+        }
+    ],
+    "require": {
+        "propel/propel": "~2.0@dev"
+    }
+
+}
